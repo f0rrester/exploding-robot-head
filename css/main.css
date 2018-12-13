@@ -71,3 +71,7 @@ body {
   top: -10%;
   right: 0;
 }
+
+.robot:hover > .robot-brain {
+  top: 0;
+}
