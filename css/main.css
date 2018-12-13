@@ -21,7 +21,6 @@ body {
   padding: .2em;
   padding-bottom: 0;
 }
-}
 
 .robot {
   width: 320px;
@@ -39,7 +38,7 @@ body {
 .robot-brain {
   width: 46px;
   position: absolute;
-  top: 15%;
+  top: 16%;
   left: 50%;
   transform: translateX(-50%);
 }
